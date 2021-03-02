@@ -1,0 +1,11 @@
+    #Failled of npm 
+    # first this
+    > npm config rm proxy
+    > npm config rm https-proxy
+
+    # then this
+    > npm config set registry https://registry.npmjs.org/
+
+    >include on tsconfig.json a config of lib:["es2015"]
+
+    >UnhandledPromiseRejectionWarning = PATH

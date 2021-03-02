@@ -1,0 +1,7 @@
+Testes Automatizados
+
+1- Testes unitários (TDD ou orientado a testes)
+2- Testes de integração
+    request --> routes --> controller --> repository
+    <-- repository <-- controller <-- response
+3- Ponta a Ponta (E2E) - FRONT-END
